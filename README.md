@@ -1,6 +1,6 @@
 # Notegen 📓✨
 
-Notegen is a powerful Flutter application designed to enhance your note-taking experience through AI-driven features. With its user-friendly interface and smart tools, Notegen transforms how users interact with their notes, making it an essential tool for students, professionals, and lifelong learners alike. Visit our website: [Notegen](https://www.notegen.io).
+Notegen is a powerful Flutter application designed to enhance your note-taking experience through AI-driven features. With its user-friendly interface and smart tools, Notegen transforms how users interact with their notes, making it an essential tool for students, professionals, and lifelong learners alike. Visit our website: [Notegen](https://note-gen-omega.vercel.app/).
 
 ## Features 🌟
 
@@ -42,7 +42,7 @@ Future updates may include:
 ## Author 👤
 
 **Dhairya Darji**  
-[Portfolio](https://dhairyadarji.web.app/) | [Notegen Website]([https://www.notegen.io](https://decisive-site-587276.framer.app/)
+[Portfolio](https://dhairyadarji.web.app/) | [Notegen Website]([https://www.notegen.io](https://decisive-site-587276.framer.app/))
 
 ## License 📜
 
