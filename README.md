@@ -42,7 +42,7 @@ Future updates may include:
 ## Author 👤
 
 **Dhairya Darji**  
-[Portfolio](https://dhairyadarji.web.app/) | [Notegen Website]([https://www.notegen.io](https://decisive-site-587276.framer.app/))
+[Portfolio](https://dhairyadarji.web.app/) | [Notegen Website](https://decisive-site-587276.framer.app/)
 
 ## License 📜
 
